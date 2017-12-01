@@ -1,8 +1,7 @@
 div.title h1 {
     font-size: 48px;
-    color: purple;
 }
-
-img{
-    border: purple 4px ridge;
-}
+.body {color:yellow}
+.body {text-align:right}
+body {background-image: url("PSO2.jpg"); }
+body {background-size: cover}
